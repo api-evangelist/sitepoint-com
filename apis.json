@@ -1,0 +1,69 @@
+{
+    "name": "sitepoint.com",
+    "description": "Learn Web Design & Development with SitePoint tutorials, courses and books - HTML5, CSS3, JavaScript, PHP, mobile app development, Responsive Web Design",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20716-sitepoint-com.jpg",
+    "tags": [
+        "forums",
+        "have api",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sitepoint-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "sitepoint.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20716-sitepoint-com.jpg",
+            "humanURL": "https:\/\/www.sitepoint.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sitepoint-com-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sitepoint-com-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sitepoint"
+        },
+        {
+            "type": "Email",
+            "url": "support@sitepoint.com"
+        },
+        {
+            "type": "Email",
+            "url": "books@sitepoint.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/sitepoint"
+        },
+        {
+            "type": "Curated Source",
+            "url": "http:\/\/www.sitepoint.com\/deploy-rest-api-in-30-mins-mlabs-heroku\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/sitepoint.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/sitepointdotcom"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.sitepoint.com"
+        }
+    ]
+}
